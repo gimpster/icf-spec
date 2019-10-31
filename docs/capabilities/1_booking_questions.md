@@ -3,7 +3,7 @@
 * Questions that are answered for each ticket
 * Questions that are required for the Supplier to determine whether they can accept the booking
 * Questions need to be localized for the customer
-
+* Questions that MUST be answered within a certain time period after booking/before arrival (how common is this?)
 
 ## Most Common Questions
 * Language preference
